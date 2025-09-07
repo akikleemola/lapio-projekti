@@ -1,2 +1,2 @@
-"terveisiä githubista"k
+"Terveisiä Githubista"
 toinen rivi tekstiä.
