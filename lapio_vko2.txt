@@ -1,2 +1,2 @@
-"Terveisiä Githubista"
+Terveisiä mun koneelta
 toinen rivi tekstiä.
